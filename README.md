@@ -1,5 +1,5 @@
-# This is an <CSIE DIC LAB--The Skyline Problem  > tag
-The Skyline Problem -- LeetCode 218 (hard)  
+# CSIE DIC LAB--The Skyline Problem
+##The Skyline Problem -- LeetCode 218 (hard)  
 
 1.RTL coding algorithm design  
 2.Use Bucket sort for data processing  
